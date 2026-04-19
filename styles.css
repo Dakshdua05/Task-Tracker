@@ -45,5 +45,5 @@ li {
 
 .completed {
     text-decoration: line-through;
-    background-color: #4c4c4c;
+    background-color: rgb(109,109,109);
 }

@@ -23,6 +23,7 @@ input[type="text"] {
 
 button {
     padding: 10px 20px;
+    margin-bottom: 5px;
     background-color: #0f148f;
     color: rgb(255, 255, 255);
     border: none;
